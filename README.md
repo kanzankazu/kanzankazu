@@ -10,16 +10,16 @@
 
 ## 🧑‍💻 About Me
 
-Android Developer yang suka eksplorasi teknologi, terutama kombinasi mobile development dengan AI. Currently working on various Android projects menggunakan Kotlin, sambil terus belajar hal-hal baru di ekosistem mobile development.
+Android Developer who loves exploring technology, especially combining mobile development with AI. Currently working on various Android projects using Kotlin, while continuously learning new things in the mobile development ecosystem.
 
-Seneng banget bikin tools yang mempermudah workflow development, dari automation scripts sampai libraries yang bisa dipakai berulang. Passionate tentang clean code, practical architecture, dan tech yang benar-benar solve real problems.
+I enjoy building tools that streamline development workflows, from automation scripts to reusable libraries. Passionate about clean code, practical architecture, and technology that solves real problems.
 
 ## ⚡ Fun Facts
 
-- 🏍️ Suka touring — exploring new places dengan motor
-- 🤖 Lagi intens explore teknologi AI dan implementasinya di mobile apps
-- 🛠️ Gemar bikin automation tools untuk mempermudah development workflow
-- ☕ Coffee-fueled coding sessions adalah daily routine
+- 🏍️ Love touring — exploring new places on my motorcycle
+- 🤖 Currently deep-diving into AI technology and its implementation in mobile apps
+- 🛠️ Enjoy building automation tools to streamline development workflows
+- ☕ Coffee-fueled coding sessions are my daily routine
 
 ---
 
@@ -79,7 +79,7 @@ Flutter Zero to Hero — structured learning repo with 10+ phases (Dart fundamen
 ### 📦 Kanzan Android Libs
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-Library Kanzankazu Corp — personal collection of reusable Android libraries and utilities built with Kotlin. Components yang sering dipakai di berbagai project.
+Library Kanzankazu Corp — personal collection of reusable Android libraries and utilities built with Kotlin. Components frequently used across various projects.
 
 **[→ View Repository](https://github.com/kanzankazu/Kanzan_Android_Libs)**
 
@@ -118,7 +118,7 @@ Library Kanzankazu Corp — personal collection of reusable Android libraries an
 
 ### 💬 Let's Connect
 
-Feel free to reach out jika ada yang ingin didiskusikan tentang Android development, automation, atau tech pada umumnya!
+Feel free to reach out if you want to discuss Android development, automation, or tech in general!
 
 [![GitHub](https://img.shields.io/badge/GitHub-kanzankazu-181717?style=for-the-badge&logo=github)](https://github.com/kanzankazu)
 
