@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Faisal Bahri (Isal)
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Faisal+Bahri+(Isal);Android+Developer;Depok%2C+Indonesia" alt="Typing SVG" /></a>
 
-**Android Developer** | Depok, Indonesia
+<!-- Profile Views Counter -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kanzankazu&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -27,11 +31,33 @@ I enjoy building tools that streamline development workflows, from automation sc
 
 ## 📊 GitHub Stats
 
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanzankazu&show_icons=true&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=10&hide_border=false)
+<!-- Profile Summary Card -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanzankazu&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanzankazu&layout=compact&theme=transparent&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=10&hide_border=false&langs_count=8)
+<!-- Stats Grid 2x2 -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanzankazu&theme=github_dark" alt="Top Languages by Repo" />
+    </td>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanzankazu&theme=github_dark" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanzankazu&theme=github_dark" alt="Stats Summary" />
+    </td>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanzankazu&theme=github_dark&utcOffset=7" alt="Commits by Hour (UTC+7)" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanzankazu&theme=transparent&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&border=30363d&borderRadius=10)
+<!-- Additional Stats: Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanzankazu&theme=transparent&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&border=30363d&borderRadius=10" alt="GitHub Streak" />
+</p>
 
 </div>
 
@@ -93,6 +119,54 @@ Library Kanzankazu Corp — personal collection of reusable Android libraries an
 
 ## 🛠️ Tech Stack
 
+### 💪 Core Skills
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Kotlin (Android)</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Proficiency-85%25-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin 85%" />
+      <br/>
+      <progress value="85" max="100" style="width: 200px;"></progress>
+    </td>
+    <td width="50%" align="center">
+      <strong>Flutter & Dart</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Proficiency-70%25-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter 70%" />
+      <br/>
+      <progress value="70" max="100" style="width: 200px;"></progress>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Python (Automation)</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Proficiency-75%25-3776AB?style=flat&logo=python&logoColor=white" alt="Python 75%" />
+      <br/>
+      <progress value="75" max="100" style="width: 200px;"></progress>
+    </td>
+    <td width="50%" align="center">
+      <strong>Shell Scripting</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Proficiency-80%25-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell 80%" />
+      <br/>
+      <progress value="80" max="100" style="width: 200px;"></progress>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <strong>Git & CI/CD</strong>
+      <br/>
+      <img src="https://img.shields.io/badge/Proficiency-70%25-F05032?style=flat&logo=git&logoColor=white" alt="Git 70%" />
+      <br/>
+      <progress value="70" max="100" style="width: 200px;"></progress>
+    </td>
+  </tr>
+</table>
+
+### 🔧 Technologies & Tools
+
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -116,10 +190,17 @@ Library Kanzankazu Corp — personal collection of reusable Android libraries an
 
 <div align="center">
 
-### 💬 Let's Connect
+## 💬 Let's Connect
 
 Feel free to reach out if you want to discuss Android development, automation, or tech in general!
 
 [![GitHub](https://img.shields.io/badge/GitHub-kanzankazu-181717?style=for-the-badge&logo=github)](https://github.com/kanzankazu)
+[![Email](https://img.shields.io/badge/Email-Open_to_Collaboration-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<sub>💡 **Pro tip:** All the stats above update automatically! Check back to see my progress.</sub>
+
+<sub>⚡ **Powered by:** [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) • [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) • [Wakatime Stats](https://wakatime.com) • [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)</sub>
 
 </div>
