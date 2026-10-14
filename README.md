@@ -3,9 +3,11 @@
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Faisal+Bahri+(Isal);Android+Developer;Depok%2C+Indonesia" alt="Typing SVG" /></a>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter - Multiple Options -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kanzankazu&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kanzankazu&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kanzankazu?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/kanzankazu?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 </div>
